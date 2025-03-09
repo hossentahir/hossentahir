@@ -1,21 +1,10 @@
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600">
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-![Sazzad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sazzad-hossen&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sazzad-hossen&layout=compact&theme=vision-friendly-dark)
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sazzad-hossen&theme=react-dark)
-
-
-
-
-
 # 👋 Hi, I'm Sazzad Hossen  
 
 📍 Dhaka, Bangladesh  
 📧 Email: sazzademon009@gmail.com  
 💻 Passionate programmer & problem solver  
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600">
 
 ---
 
@@ -23,7 +12,7 @@
 🚀 **Co-Founder | SPC Academy** (12/2024 - Present)  
 🎯 ICT & Programming Instructor  
 
-🚀 **Co-Founder | সোনামণিদের প্রোগ্রামিং আড্ডা** (11/2022 - Present)  
+🚀 **Co-Founder | সোনালীদিন প্রোগ্রামিং আড্ডা** (11/2022 - Present)  
 🎯 Organizing local coding contests  
 
 📊 **Data Annotator | Quantigo AI** (10/2024 - 11/2024)  
@@ -55,11 +44,15 @@
 🛢 SQL, MySQL  
 🎨 Canva, MS Office (Certified)  
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
 ---
 
 ## 🎓 Education  
 📍 **Daffodil International University, Dhaka**  
-🎓 BSc in Software Engineering (Ongoing...)  
+🎓 BSc in Software Engineering (CGPA: 3.95)  
 
 📍 **Govt Bangabandhu College, Gopalganj**  
 🎓 Certificate of Higher Education (GPA: 5.00)  
@@ -74,6 +67,16 @@
 
 ---
 
+## 📊 GitHub Stats & Activity  
+![Sazzad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sazzad-hossen&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sazzad-hossen&layout=compact&theme=vision-friendly-dark)  
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sazzad-hossen&theme=react-dark)  
+
+---
+
 ## 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sazzad-hossen-646bb0233)  
 [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=flat&logo=facebook)](https://www.facebook.com/emon.mia.9)  
+
+![Profile Views](https://komarev.com/ghpvc/?username=sazzad-hossen&label=Profile%20Views&color=blue&style=plastic)  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
