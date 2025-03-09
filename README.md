@@ -9,10 +9,10 @@
 ---
 
 ## 💼 Experience  
-🚀 **Co-Founder | SPC Academy** (12/2024 - Present)  
-🎯 ICT & Programming Instructor  
+🚀 **Instructor | SPC Academy** (12/2024 - Present)  
+🎯 ICT & Programming   
 
-🚀 **Co-Founder | সোনালীদিন প্রোগ্রামিং আড্ডা** (11/2022 - Present)  
+🚀 **Co-Founder | সোনামণিদের প্রোগ্রামিং আড্ডা** (11/2022 - Present)  
 🎯 Organizing local coding contests  
 
 📊 **Data Annotator | Quantigo AI** (10/2024 - 11/2024)  
