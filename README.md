@@ -52,7 +52,7 @@
 
 ## 🎓 Education  
 📍 **Daffodil International University, Dhaka**  
-🎓 BSc in Software Engineering (CGPA: 3.95)  
+🎓 BSc in Software Engineering (Ongoing...)  
 
 📍 **Govt Bangabandhu College, Gopalganj**  
 🎓 Certificate of Higher Education (GPA: 5.00)  
