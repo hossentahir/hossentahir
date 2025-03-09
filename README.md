@@ -3,6 +3,9 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+![Sazzad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sazzad-hossen&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sazzad-hossen&layout=compact&theme=vision-friendly-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sazzad-hossen&theme=react-dark)
 
 
 
