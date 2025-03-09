@@ -71,6 +71,8 @@
 ![Sazzad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sazzad-hossen&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sazzad-hossen&layout=compact&theme=vision-friendly-dark)  
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sazzad-hossen&theme=react-dark)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sazzad-hossen&theme=react-dark)
+
 
 ---
 
